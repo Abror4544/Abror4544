@@ -5,9 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?fontTime+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Abror;Frontend+%2B+Backend+;Fullstack+Web+developer" alt="Typing SVG" /></a>
 </p>
 
------
 
-<br>
 
 ## <b> Contacts</b>
 <br>
