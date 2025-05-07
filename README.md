@@ -14,7 +14,7 @@
 <ul>
 
 <li>
-<a href="https://www.instagram.com/abror_azamatovic/" target="_blank">
+<a href="https://www.instagram.com/abror_xyz/" target="_blank">
 <img src="https://img.shields.io/badge/instagram:Abror4544-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
